@@ -1,0 +1,13 @@
+[
+  {
+    "version": 1,
+    "uuid": "ba4a8b0e-9381-413e-b3bf-7faedde0e0b9",
+    "name": "test",
+    "model": "assets/models/entities/test/test.dcm",
+    "animationFolder": "assets/Animations/entities/test/.dca",
+    "texture": {
+      "baseFolder": "assets/textures/entities/test",
+      "groups": []
+    }
+  }
+]
